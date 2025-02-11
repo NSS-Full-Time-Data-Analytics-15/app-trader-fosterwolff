@@ -40,4 +40,4 @@ Based on research completed prior to launching App Trader as a company, you can 
 
 	c. Develop a Top 4 list of the apps that App Trader should buy that are profitable but that also are thematically appropriate for next months's Pi Day themed campaign.
 
-	c. Submit a report based on your findings. The report should include both of your lists of apps along with your analysis of their cost and potential profits. All analysis work must be done using PostgreSQL, however you may export query results to create charts in Excel for your report.
+	d. Submit a report based on your findings. The report should include both of your lists of apps along with your analysis of their cost and potential profits. All analysis work must be done using PostgreSQL, however you may export query results to create charts in Excel for your report.
